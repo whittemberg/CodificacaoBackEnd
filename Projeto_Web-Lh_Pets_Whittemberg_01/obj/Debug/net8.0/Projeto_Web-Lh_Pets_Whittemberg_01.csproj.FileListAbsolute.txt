@@ -1,0 +1,7 @@
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.csproj.AssemblyReference.cache
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.AssemblyInfoInputs.cache
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.AssemblyInfo.cs
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.csproj.CoreCompileInputs.cache
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CEAD\Desktop\SenaiSP\CodificacaoBackEnd\Atividade10b-SP3-ProjetoWebLH-Pets\Projeto_Web-Lh_Pets_Whittemberg_01\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Whittemberg_01.sourcelink.json
